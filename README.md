@@ -21,3 +21,14 @@
 - [x] ~~_Postgres setup_~~ [2020-07-03]
 - [x] ~~_Test Driven Development_~~ [2020-07-03]
 - [x] ~~_Create GitHub project_~~ [2020-07-03]
+- [x] ~~_Dockerfile setup_~~ [2020-07-03]
+- [x] ~~_Docker Compose setup_~~ [2020-07-03]
+- [ ] Create Django Project
+- [ ] Create Travis-CI configuration
+- [ ] First unit test
+- [ ] First TDD unit test
+- [ ] Create core app
+- [ ] Add tests for custom user model
+- [ ] Implemtent custom user model
+- [ ] Normalize email address
+- [ ] Add validation for email field
