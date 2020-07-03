@@ -23,7 +23,7 @@
 - [x] ~~_Create GitHub project_~~ [2020-07-03]
 - [x] ~~_Dockerfile setup_~~ [2020-07-03]
 - [x] ~~_Docker Compose setup_~~ [2020-07-03]
-- [ ] Create Django Project
+- [x] ~~_Create Django Project_~~ [2020-07-03]
 - [ ] Create Travis-CI configuration
 - [ ] First unit test
 - [ ] First TDD unit test
