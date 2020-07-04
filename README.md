@@ -26,9 +26,9 @@
 - [x] ~~_Dockerfile setup_~~ [2020-07-03]
 - [x] ~~_Docker Compose setup_~~ [2020-07-03]
 - [x] ~~_Create Django Project_~~ [2020-07-03]
-- [ ] Create Travis-CI configuration
-- [ ] First unit test
-- [ ] First TDD unit test
+- [x] ~~_Create Travis-CI configuration_~~ [2020-07-03]
+- [x] ~~_First unit test_~~ [2020-07-03]
+- [x] ~~_First TDD unit test_~~ [2020-07-03]
 - [ ] Create core app
 - [ ] Add tests for custom user model
 - [ ] Implemtent custom user model
