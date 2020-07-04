@@ -29,8 +29,8 @@
 - [x] ~~_Create Travis-CI configuration_~~ [2020-07-03]
 - [x] ~~_First unit test_~~ [2020-07-03]
 - [x] ~~_First TDD unit test_~~ [2020-07-03]
-- [ ] Create core app
-- [ ] Add tests for custom user model
-- [ ] Implemtent custom user model
+- [x] ~~_Create core app_~~ [2020-07-04]
+- [x] ~~_Add tests for custom user model_~~ [2020-07-04]
+- [x] ~~_Implement custom user model_~~ [2020-07-04]
 - [ ] Normalize email address
 - [ ] Add validation for email field

@@ -7,6 +7,7 @@
 
 [tool.black]
 line-length = 120
+skip-string-normalization = true
 target-version = ['py36', 'py37', 'py38']
 include = '\.pyi?$'
 exclude = '''
@@ -22,20 +23,9 @@ exclude = '''
   | build
   | dist
   | migrations
-  | __pycache__
-  | manage.py
-  | settings.py
   # The following are specific to Black, you probably don't want those.
   | blib2to3
   | tests/data
   | profiling
 )/
 '''
-
-
-# Build system information below.
-# NOTE: You don't need this in your own Black configuration.
-
-[build-system]
-requires = ["setuptools>=41.0", "setuptools-scm", "wheel"]
-build-backend = "setuptools.build_meta"
