@@ -24,6 +24,8 @@ exclude = '''
   | dist
   | migrations
   | settings.py
+  | manage.py
+  | wsgi.py
   # The following are specific to Black, you probably don't want those.
   | blib2to3
   | tests/data
